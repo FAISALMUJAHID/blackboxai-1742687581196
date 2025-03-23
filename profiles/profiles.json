@@ -1,0 +1,17 @@
+{
+    "profile_1": {
+        "created_at": 1742688023.3378036,
+        "last_used": 1742688036.0035791,
+        "cookies": [],
+        "settings": {
+            "viewport": {
+                "width": 1280,
+                "height": 720
+            },
+            "user_agent": null,
+            "language": "en-US",
+            "timezone": "UTC",
+            "geolocation": null
+        }
+    }
+}
